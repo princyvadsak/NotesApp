@@ -18,12 +18,12 @@ In this application, first page is use for the login .it display the username an
 * Navigation controller
 
 # Task Perform In This Application:
-* Login (with UserDefaults)
-* Add new notes
-* Modify existing note
-* Display List Of Notes (using Table View)
-* Delete notes
-* Logout (with UserDefaults)
+* Login (With UserDefaults)
+* Add New Notes
+* Modify Existing Note
+* Display List Of Notes (Using Table View)
+* Delete Notes
+* Logout (With UserDefaults)
 
 # Gif Of NotesApp Application 
 
